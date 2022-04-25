@@ -96,7 +96,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-/* Created common class benefit-lbc since they had all same properties */
+/* Combined selectors together and Created common class benefit-lbc since, they had all same properties */
 .benefit-lbc img {
     display: block;
     margin: 10px auto;
