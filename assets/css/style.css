@@ -81,23 +81,23 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* Created common class "benefit-lbc" since they had all same properties */
+/* Created new class "benefit-lbc" since they had all same properties */
 .benefit-lbc {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* Created common class "benefit-lbc" since they had all same properties */
+/* Created new class "benefit-lbc" since they had all same properties */
 .benefit-lbc h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/* Combined selectors together and Created common class "benefit-lbc" since, they had all same properties */
+/* Combined selectors together and Created new class "benefit-lbc" since, they had all same properties */
 .benefit-lbc img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/* Combined selectors together and Created common class "SEO-ORM-SMM" since, they had all same properties */
+/* Combined selectors together and Created new new "SEO-ORM-SMM" since, they had all same properties */
 .SEO-ORM-SMM {
     margin-bottom: 20px;
     padding: 50px;
@@ -106,11 +106,11 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/* Combined selectors together and Created common class "SEO-ORM-SMM" since, they had all same properties */
+/* Combined selectors together and Created new class "SEO-ORM-SMM" since, they had all same properties */
 .SEO-ORM-SMM img {
     max-height: 200px;
 }
-/* Combined selectors together and Created common class "SEO-ORM-SMM" since, they had all same properties */
+/* Combined selectors together and Created new class "SEO-ORM-SMM" since, they had all same properties */
 .SEO-ORM-SMM h2 {
     margin-bottom: 20px;
     font-size: 36px;
