@@ -1,11 +1,10 @@
 ## Name of the project
 Code Refactor
 ## Overview
-To refactor an existing site to make it more accessible for the people with disabilities can access a website using assistive technologies like video captions,screen readers, and braille keyboards.
+To refactor an existing site to make it more accessible for the people with disabilities and a codebase that follows accessibility standards.This will have a better User experience and ADA-compliant.
 ## The Challenge
-Refactoring the code for an existing webpage by adding semantic HTML elements and eliminating non-semantic elements like <div> and <span> which defines no meaningful content.We need to make this web page more comprehensible by better defining the sections and sequential lay out of the pages.
+Refactoring the code for an existing webpage by adding semantic HTML elements and eliminating non-semantic elements like div and span which defines no meaningful content.We need to make this web page more comprehensible by better defining the sections and sequential lay out of the pages.
 CSS selectors and properties should be consolidated and organized to follow semantic structure. It should also maintain its current appearance despite any changes that were made to refactor the code.
-This will have a better User experience and ADA-compliant.
 ## User Story
 ```
 AS A marketing agency
@@ -27,7 +26,8 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 ## Screenshot
-[Article](./assets/images/Article.png)
+<img src="./assets/images/Article.png" alt="Screenshot of Article created in HTML"/>
+<img src="./assets/images/section.png" alt="Screenshot of Sections created in HTML"/>
 
 ## Semantic HTML Elements used and meaning
 - nav  
@@ -48,7 +48,7 @@ Link to the deployed Webpage:<a href="https://ashachakre0906.github.io/Code-Refa
 My favorite search engine is [ Google ] <a href="https://www.google.com/">link to the Google webpage</a>
 
 ## License
-MIT License
+[MIT License]()
 
 Copyright (c) [ 2022] [Asha Chakre]
 
