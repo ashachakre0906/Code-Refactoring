@@ -1,7 +1,31 @@
 ## Name of the project
 Code Refactor
+## User Story
+```
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
+##Acceptance Criteria
+```
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
+```
+## Screenshot
+<img src="./assests/images/Article.png">
+<img src="./assests/images/section.png">
+
 ## Purpose of this project
-Our goal is to make this web page more comprehensible by better defining the sections and sequential lay out of the pages.Refactoring the code for an existing webpage by adding semantic HTML elements and eliminating non-semantic elements which defines no meaningful content.This will have a better User experience and ADA-compliant.Created common class in HTML and Consolidated CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements.Included comments before each element or sections of the page.
+To make this web page more comprehensible by better defining the sections and sequential lay out of the pages.Refactoring the code for an existing webpage by adding semantic HTML elements and eliminating non-semantic elements which defines no meaningful content.This will have a better User experience and ADA-compliant.Created common class in HTML and Consolidated CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements.Included comments before each element or sections of the page.
 
 ## Semantic HTML Elements used and meaning
 - nav  
@@ -17,7 +41,7 @@ Our goal is to make this web page more comprehensible by better defining the sec
 - footer  
   The element defines a footer for a document or section.
 
-## See the below example
+## See the below Screenshots
 html
 ```
 <nav>
