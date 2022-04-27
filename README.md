@@ -25,7 +25,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-## Screenshot
+## Screenshots of HTML Code displays Semantic HTML Element Article & Section
 <img src="./assets/images/Article.png" alt="Screenshot of Article created in HTML"/>
 <img src="./assets/images/section.png" alt="Screenshot of Sections created in HTML"/>
 
@@ -44,8 +44,8 @@ THEN I find a concise, descriptive title
   The element defines a footer for a document or section.
 
 ## Links  
-Link to the deployed Webpage:<a href="https://ashachakre0906.github.io/Code-Refactoring/">Link to the Refactor-Code</a>
-My favorite search engine is [ Google ] <a href="https://www.google.com/">link to the Google webpage</a>
+<a href="https://ashachakre0906.github.io/Code-Refactoring/">Link to the Refactor-Code</a>
+<a href="https://www.google.com/">link to the Google webpage</a>
 
 ## License
 [MIT License]()

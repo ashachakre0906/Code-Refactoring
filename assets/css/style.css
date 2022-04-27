@@ -1,30 +1,25 @@
-/*This is a universal selector selects all HTML elements on the page*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-/*Select all the body elements and gives the below background color*/
 body {
     background-color: #d9dcd6;
 }
-/*Selects all elements with the class="header" */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-/*Selects h1 element within the class="header" */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-/* */
 .header h1 .seo {
     color: #d9dcd6;
 }
-/*Selects nav element with the class="header"*/
+/*Replaced div to nav*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,11 +27,11 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/*Replaced div to nav*/
 .header nav ul {
     list-style-type: none;
 }
-
+/*Replaced div to nav*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -126,7 +121,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/*Changed h2 to h4 to have a sequential order since it was changes in HTML code*/
 .footer h4 {
     font-size: 20px;
 }
