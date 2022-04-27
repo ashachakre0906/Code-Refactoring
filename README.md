@@ -1,8 +1,7 @@
-## Title of the project
+## Name of the project
 Code Refactor
 ## Purpose of this project
-Our goal is to make this web page more comprehensible by better defining the sections and sequential lay out of the pages.Refactoring the code for an existing webpage by adding semantic HTML elements and eliminating non-semantic elements which defines no meaningful content.This will have a better User experience and ADA-compliant.
-Created common class in HTML and Consolidated CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements.Included comments before each element or sections of the page.
+Our goal is to make this web page more comprehensible by better defining the sections and sequential lay out of the pages.Refactoring the code for an existing webpage by adding semantic HTML elements and eliminating non-semantic elements which defines no meaningful content.This will have a better User experience and ADA-compliant.Created common class in HTML and Consolidated CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements.Included comments before each element or sections of the page.
 
 ## Semantic HTML Elements used and meaning
 - nav  
@@ -47,8 +46,8 @@ html
 </article> 
 ```
 ## Links  
+Link to the deployed Webpage:<a href="https://ashachakre0906.github.io/Code-Refactoring/">Link to the Refactor-Code</a>
 My favorite search engine is [ Google ] <a href="https://www.google.com/">link to the Google webpage</a>
-Link to the deployed Webpage - <a href="https://ashachakre0906.github.io/Code-Refactoring/">Link to Refactor-Code</a>
 
 ## License
 MIT License
