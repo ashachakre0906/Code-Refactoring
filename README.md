@@ -1,12 +1,18 @@
 ## Name of the project
 Code Refactor
+## Overview
+To refactor an existing site to make it more accessible for the people with disabilities can access a website using assistive technologies like video captions,screen readers, and braille keyboards.
+## The Challenge
+Refactoring the code for an existing webpage by adding semantic HTML elements and eliminating non-semantic elements like <div> and <span> which defines no meaningful content.We need to make this web page more comprehensible by better defining the sections and sequential lay out of the pages.
+CSS selectors and properties should be consolidated and organized to follow semantic structure. It should also maintain its current appearance despite any changes that were made to refactor the code.
+This will have a better User experience and ADA-compliant.
 ## User Story
 ```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
-##Acceptance Criteria
+## Acceptance Criteria
 ```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -21,11 +27,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 ## Screenshot
-<img src="./assests/images/Article.png">
-<img src="./assests/images/section.png">
-
-## Purpose of this project
-To make this web page more comprehensible by better defining the sections and sequential lay out of the pages.Refactoring the code for an existing webpage by adding semantic HTML elements and eliminating non-semantic elements which defines no meaningful content.This will have a better User experience and ADA-compliant.Created common class in HTML and Consolidated CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements.Included comments before each element or sections of the page.
+[Article](./assets/images/Article.png)
 
 ## Semantic HTML Elements used and meaning
 - nav  
@@ -41,34 +43,6 @@ To make this web page more comprehensible by better defining the sections and se
 - footer  
   The element defines a footer for a document or section.
 
-## See the below Screenshots
-html
-```
-<nav>
-    <ul>
-        <li>
-            <a href="#search-engine-optimization">Search Engine Optimization</a>
-                </li>
-                <li>
-                    <a href="#online-reputation-management">Online Reputation Management</a>
-                </li>
-                <li>
-            <a href="#social-media-marketing">Social Media Marketing</a>
-        </li>
-    </ul>
-</nav>
-```
-```
-<article id="search-engine-optimization"class="SEO-ORM-SMM"><img src="./assets/images/search-engine-optimization.jpg"class="float-left"alt="Search Engine optimization"/>
-     <h2>Search Engine Optimization</h2>
-    <p>
-     The dominance of mobile internet use means that users are searching
-     for the right business as they travel, shop, or sit on their couch at
-     home. Search Engine Optimization (SEO) allows you to increase your
-     visibility and find the right customers for your business.
-    </p>
-</article> 
-```
 ## Links  
 Link to the deployed Webpage:<a href="https://ashachakre0906.github.io/Code-Refactoring/">Link to the Refactor-Code</a>
 My favorite search engine is [ Google ] <a href="https://www.google.com/">link to the Google webpage</a>
