@@ -59,15 +59,14 @@ THEN I find a concise, descriptive title
 ## Built with
 - Semantic HTML5 markup
 - CSS
-![HTML Badge](https://img.shields.io/badge/Language-<HTML>-<blue>)
-![HTML Badge](https://img.shields.io/badge/Language-<CSS>-<red>)
+
 ## What I learned
 - In order to implement accessibility standards to this webpage, I needed to learn and understand what HTML semantic elements are. 
 - Learned how to consolidate Common CSS selectors and properties to minimize the extra line of code in codebase.
 - Learned how to write comments to indicate various changes in HTML and CSS file.
 - Learned how to write good README.md file.
-```html
-<h1>Some HTML code I'm proud of for consolidating Common CSS selectors and properties by creating common class </h1>
+
+***Some HTML code which I'm proud of for consolidating Common CSS selectors and properties by creating common class***
 ```
 ```CSS
 .benefit-lbc {
@@ -86,14 +85,15 @@ THEN I find a concise, descriptive title
 }
 ```
 ### Useful resources
-- [w3schools](https://w3schools.com) - This helped me understand what semantic elements are.I would really like to refer this going forward for understanding other concepts in HTML and CSS.
+- [w3schools](https://w3schools.com) - This helped me understand what semantic elements are.I would really like to refer this going forward to understand other concepts in HTML and CSS.
+- [Github Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
+-Refered for Basic writing and formatting syntax.
 
 ## Author
-- [@ashachakre](https://www.linkedin.com/in/ashachakre/)
+- Linkedin - [@ashachakre](https://www.linkedin.com/in/ashachakre/)
 
 ## License
 Licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.
-MIT License
 
 Copyright (c) [2022] [Asha Chakre]
 
