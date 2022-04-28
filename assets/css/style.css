@@ -81,23 +81,23 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* Created new class "benefit-lbc" since they had all same properties */
+/* Created common class "benefit-lbc" since they had all same properties */
 .benefit-lbc {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* Created new class "benefit-lbc" since they had all same properties */
+/* Created common class "benefit-lbc" since they had all same properties */
 .benefit-lbc h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/* Combined selectors together and Created new class "benefit-lbc" since, they had all same properties */
+/* Created common class "benefit-lbc" since, they had all same properties */
 .benefit-lbc img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/* Combined selectors together and Created new new "SEO-ORM-SMM" since, they had all same properties */
+/*Created common class "SEO-ORM-SMM" since, they had all same properties */
 .SEO-ORM-SMM {
     margin-bottom: 20px;
     padding: 50px;
@@ -106,11 +106,11 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/* Combined selectors together and Created new class "SEO-ORM-SMM" since, they had all same properties */
+/*Created common class "SEO-ORM-SMM" since, they had all same properties */
 .SEO-ORM-SMM img {
     max-height: 200px;
 }
-/* Combined selectors together and Created new class "SEO-ORM-SMM" since, they had all same properties */
+/*Created common class "SEO-ORM-SMM" since, they had all same properties */
 .SEO-ORM-SMM h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -121,7 +121,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-/*Changed h2 to h4 to have a sequential order since it was changes in HTML code*/
+/*Changed h2 to h4 in the footer class to have a sequential order since it was changed in HTML code*/
 .footer h4 {
     font-size: 20px;
 }

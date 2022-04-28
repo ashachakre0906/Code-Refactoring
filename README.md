@@ -25,15 +25,18 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-## Screenshots of HTML Code displays Semantic HTML Element Article & Section
+## Screenshots of HTML Code displays Semantic HTML Element Article & Section logically structured and accessible alt attribute provides alternate text to an image.
+
 <img src="./assets/images/Article.png" alt="Screenshot of Article created in HTML"/>
-<img src="./assets/images/section.png" alt="Screenshot of Sections created in HTML"/>
+<img src="./assets/images/section.png" alt="Screenshot of Section created in HTML"/>
+<img src="./assets/images/alt.png" alt="Screenshot of alt attribute"/>
+
 
 ## Semantic HTML Elements used and meaning
 - nav  
   The element defines a set of navigation links.
 - section
-  The element defines a section in a document.
+  The element defines a section in a webpage.
 - article  
   An Element specifies independent, self-contained content.
 - alt  
@@ -41,23 +44,25 @@ THEN I find a concise, descriptive title
 - aside  
   Element defines some content aside (Sidebar).
 - footer  
-  The element defines a footer for a document or section.
+  The element defines a footer for a section.
 
 ## Links  
-[Github Repo](https://github.com/ashachakre0906/Code-Refactoring)<br>
-[Webpage Link](https://ashachakre0906.github.io/Code-Refactoring/)<br>
+[Github URL](https://github.com/ashachakre0906/Code-Refactoring)<br>
+[Live URL](https://ashachakre0906.github.io/Code-Refactoring/)<br>
 ## My process
 1. Replaced div tag with Semantic HTML Elements like nav,section,article,alt,aside and footer.
-2. Updated the title element provided more meaningful title to the webpage.
-3. Common CSS selectors and properties are consolidated and organized to follow semantic structure.
-4. Provided comments to each section in my HTML code wherever changes were made in HTML and CSS both.
+2. Updated the title element and provided more meaningful title to the webpage.
+3. Added an missing id attribute to section class="content" which resolved the application's link functioning correctly.
+4. Common CSS selectors and properties are consolidated and organized to follow semantic structure.
+5. Provided comments to each section in my HTML code wherever changes were made in HTML and CSS both.
 
 ## Built with
 - Semantic HTML5 markup
 - CSS
-
+![HTML Badge](https://img.shields.io/badge/Language-<HTML>-<blue>)
+![HTML Badge](https://img.shields.io/badge/Language-<CSS>-<red>)
 ## What I learned
-- In order to implement accessibility standards to this webpage, I needed to learn and understand what semantic elements are. 
+- In order to implement accessibility standards to this webpage, I needed to learn and understand what HTML semantic elements are. 
 - Learned how to consolidate Common CSS selectors and properties to minimize the extra line of code in codebase.
 - Learned how to write comments to indicate various changes in HTML and CSS file.
 - Learned how to write good README.md file.
