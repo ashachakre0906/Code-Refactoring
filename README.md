@@ -75,6 +75,16 @@ THEN I find a concise, descriptive title
     color: #ffffff;
 }
 ```
+```CSS
+.SEO-ORM-SMM {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+```
 ### Useful resources
 - [w3schools](https://w3schools.com) - This helped me understand what semantic elements are.I would really like to refer this going forward for understanding other concepts in HTML and CSS.
 
