@@ -25,7 +25,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-## Screenshots of HTML Code displays Semantic HTML Element Article & Section logically structured and accessible alt attribute provides alternate text to an image.
+***Screenshots of HTML Code displays Semantic HTML Element Article & Section logically well structured and accessible alt attribute provides alternate text to an image***
 
 <img src="./assets/images/Article.png" alt="Screenshot of Article created in HTML"/>
 <img src="./assets/images/section.png" alt="Screenshot of Section created in HTML"/>
