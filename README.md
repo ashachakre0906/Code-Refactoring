@@ -67,14 +67,13 @@ THEN I find a concise, descriptive title
 - Learned how to write good README.md file.
 
 ***Some HTML code which I'm proud of for consolidating Common CSS selectors and properties by creating common class***
-```
-```CSS
+```css
 .benefit-lbc {
     margin-bottom: 32px;
     color: #ffffff;
 }
 ```
-```CSS
+```css
 .SEO-ORM-SMM {
     margin-bottom: 20px;
     padding: 50px;
